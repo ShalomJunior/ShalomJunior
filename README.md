@@ -3,10 +3,9 @@
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-
 <h3 align="left">👨🏻‍💻  About Me</h3>
 
- 💡 I'm a passionate developer with a deep interest in competitive programming algorithms. I thrive on the challenge of creating efficient, high-performance code and love diving into complex problems to find elegant solutions. Whether it's solving algorithmic puzzles or optimizing code, I'm always eager to learn and explore new techniques in these exciting fields.
+💡 I'm a passionate developer with a deep interest in competitive programming algorithms. I thrive on the challenge of creating efficient, high-performance code and love diving into complex problems to find elegant solutions. Whether it's solving algorithmic puzzles or optimizing code, I'm always eager to learn and explore new techniques in these exciting fields.
 
 > Tools, languages, and other things that I like to work with.
 
