@@ -12,56 +12,43 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+    <td align="center" width="96"> 
+      <a href="#tech" >
+        <img src="./img/kotlin-1.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Python
+      <br>Kotlin
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#tech">
         <img src="./img/c.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
         <img src="./img/c-1.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#tech" >
         <img src="./img/rust.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Rust
     </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/kotlin-1.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
   </tr>
 </table>
-### 🛠 &nbsp;Tech Stack
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <be>
