@@ -7,6 +7,8 @@
 
 💡 I'm a passionate developer with a deep interest in competitive programming algorithms. I thrive on the challenge of creating efficient, high-performance code and love diving into complex problems to find elegant solutions. Whether it's solving algorithmic puzzles or optimizing code, I'm always eager to learn and explore new techniques in these exciting fields.
 
+<img alt="Night Coding" src="https://github.com/snipe/animated-gifs/blob/master/Surprise/SpellingBeeNonchalant.gif" width="330px" align="right"/>
+
 > Tools, languages, and other things that I like to work with.
 
 <table>
